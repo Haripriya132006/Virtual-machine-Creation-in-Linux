@@ -47,8 +47,11 @@ cat /etc/hostname
 
 ### REG NUMBER: 212223220030
 ### NAME: HARIPRIYA K
- 
- Include your Screenshots Here.
+
+![Screenshot 2024-11-15 105328](https://github.com/user-attachments/assets/130d3692-0779-4ee4-b312-495f498dd63c)
+![Screenshot 2024-11-15 110329](https://github.com/user-attachments/assets/4ae93d29-2820-4c85-9cab-e96344d6f3cf)
+
+
 ## RESULT
  The Installation of Virtualbox / VMware Workstation with different flavours of linux is successfully created .
 
